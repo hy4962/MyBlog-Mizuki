@@ -9,7 +9,7 @@ author: "站长"
 sourceLink: "https://github.com/hy4962/HTTP-communication"
 draft: false
 date: 2026-03-25
-image:"main_ui_2026-03-26_09-39-20.png"
+image: "./main_ui_2026-03-26_09-39-20.png"
 pubDate: 2026-03-25
 ---
 
