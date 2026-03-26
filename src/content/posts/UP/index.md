@@ -2,9 +2,9 @@
 title: "网站置顶"
 published: 2026-03-26
 pinned: true
-description: "一个用C#写的贪吃蛇"
-tags: [C#,GitHub]
-category: "C#"
+description: "网站置顶公告与说明"
+tags: [MyBlog]
+category: "MyBlog"
 author: "站长"
 sourceLink: "https://github.com/hy4962/MyBlog-Mizuki"
 draft: false
@@ -17,7 +17,7 @@ pubDate: 2026-03-26
 
 # 网站公告
 
-暂时无
+本站用[Mizuki](https://github.com/matsuzaka-yuki/Mizuki)搭建，感谢开源
 
 
 
