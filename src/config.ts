@@ -53,7 +53,7 @@ export const siteConfig: SiteConfig = {
 		// 显示模式："text-icon" 显示图标+文本，"logo" 仅显示Logo
 		mode: "logo",
 		// 顶栏标题文本
-		text: "MizukiUI",
+		text: "HY-blog",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
 		icon: "assets/home/home.png",
 		// 网站Logo图片路径
@@ -114,6 +114,8 @@ export const siteConfig: SiteConfig = {
 		// 支持单张图片或图片数组，当数组长度 > 1 时自动启用轮播
 		src: {
 			desktop: [
+				"/assets/desktop-banner/kirino.webp",
+				"/assets/desktop-banner/three.webp",
 				"/assets/desktop-banner/1.webp",
 				"/assets/desktop-banner/2.webp",
 				"/assets/desktop-banner/3.webp",
