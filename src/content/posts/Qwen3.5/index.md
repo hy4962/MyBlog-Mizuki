@@ -1,6 +1,6 @@
 ---
 title: "本地部署Qwen3.5"
-published: 2026-03-26
+published: 2026-03-28
 pinned: false
 description: "使用LMStduio部署本地大模型"
 tags: [AI,Qwen3.5,Qwen,LM_Studio]
