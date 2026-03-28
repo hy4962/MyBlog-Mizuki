@@ -1,3 +1,18 @@
+---
+title: "本地部署Qwen3.5"
+published: 2026-03-26
+pinned: false
+description: "使用LMStduio部署本地大模型"
+tags: [AI,Qwen3.5,Qwen,LM_Studio]
+category: "AI"
+author: "站长"
+sourceLink: "https://github.com/hy4962/MyBlog-Mizuki"
+draft: false
+date: 2026-03-28
+image: "./models_setting.png"
+pubDate: 2026-03-28
+---
+
 # Qwen3.5
 
 
